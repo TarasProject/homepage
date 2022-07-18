@@ -1,0 +1,17 @@
+.gallery {
+	display: flex;	
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: center;
+}
+.gallery img {
+ 	width:500px;
+ 	height:340px;
+ 	margin: 26px;
+ 	display:block; 	
+ 	border-radius: 15px;	
+ }
+ li a:active{
+ 	color: red !important;
+ }
+ 
